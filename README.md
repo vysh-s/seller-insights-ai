@@ -1,4 +1,4 @@
-# Seller Insights AI - Square APM Application
+# Seller Insights AI 
 
 An AI-powered analytics dashboard for e-commerce sellers. Built in 2 days to demonstrate product thinking, full-stack development, and commerce understanding for Square's APM program.
 
